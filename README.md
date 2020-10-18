@@ -11,5 +11,5 @@
 French developper
 
 Discord : pussyboi#3944<br>
-twitter : <a href="https://twitter.com/cshlover" class="twitter-follow-button" data-show-count="false" data-size="large" color="#ff000" style="font-family:Iceberg;">@cshlover</a>
+twitter : <a href="https://twitter.com/cshlover" class="twitter-follow-button" data-show-count="false" data-size="large" color="#ff000" style="font-family:Iceberg;">@xozhs_</a>
 </p> 
