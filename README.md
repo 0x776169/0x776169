@@ -24,7 +24,5 @@
          
 <br>
 <br>
-<hr>
 <h2 align="center">0x77's statistic</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=0x776169&&show_icons=true&title_color=ffffff&icon_color=C68EEF&text_color=daf7dc&bg_color=4600A6"></center>
-<hr>
