@@ -1,11 +1,12 @@
 <h1 align="center"> ^ç's github </h1>
-<ul>
-         <li> Discord : hwaisplunt#1111 </li>
-         <li>Newbie developer's Python</li>
-         <li>ュー</li>
-         <li>知能</li>
-         <li>コン</li>
-         <li>そ。</li>
+<ul align="center">
+         <li> Discord : hwaisplunt#1111 </li> <li align="right"></li>
+         <li>Newbie developer's Python</li> <li align="right"></li>
+         <li>ュー</li> <li align="right"></li>
+         <li>知能</li> <li align="right"></li>
+         <li>コン</li> <li align="right"></li>
+         <li>そ。</li> <li align="right"></li>
+</ul>
 <br>
 <br>
 <h2 align="center"> Social Life </h2>
