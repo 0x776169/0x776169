@@ -1,4 +1,4 @@
-<h1 > ^ç's github </h1>
+<h1 align="center"> ^ç's github </h1>
 <ul>
          <li> Discord : hwaisplunt#1111 </li>
          <li>Newbie developer's Python</li>
