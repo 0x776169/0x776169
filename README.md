@@ -12,11 +12,11 @@
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <p align="center">
          <a href="https://twitter.com/0x776169">
-         <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=4600A6">
+         <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&LogoColor=ffffff&message=Follow%20Me&color=4600A6">
          </a>
          <br>
          <a href="https://github.com/0x776169">
-         <img src="https://img.shields.io/static/v1?label=GitHub&logo=GitHub&logoColor=black&message=Follow%20Me%20I%20follow%20back&color=C68EEF">
+         <img src="https://img.shields.io/static/v1?label=GitHub&logo=GitHub&logoColor=ffffff&message=Follow%20Me%20I%20follow%20back&color=C68EEF">
          </a>
 </p>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━</p>
